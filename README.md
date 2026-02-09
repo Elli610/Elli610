@@ -2,7 +2,7 @@
 
 # Hey, I'm Elli ₿ 👋
 
-**French Fintech Engineer · Rust Maximalist · Blockchain Builder**
+**French Fintech Engineer · Rust Enthusiast · Blockchain Builder**
 
 `low-latency systems` · `decentralized finance` · `cryptography` · `Bitcoin`
 
