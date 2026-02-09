@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Elli ₿ 👋
+# Bonjour 👋
 
 **French Fintech Engineer · Rust Enthusiast · Blockchain Builder · Educator**
 
