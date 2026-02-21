@@ -21,7 +21,7 @@ By night, I do the same thing. Sleep is a deprecated feature.
 
 I'm 24 and completely bald — which I consider a performance optimization. Less aerodynamic drag. Faster thinking. No time wasted on haircuts. The correlation with my obsession over microsecond latency is probably not a coincidence.
 
-I also teach Rust and Web3. No slides, no theory-first — just code, benchmarks, and real protocols. My students build order books and smart contracts from scratch before they're allowed to have opinions about them.
+I also teach Rust and Web3. Limited slides, no theory-first — just code, benchmarks, and real protocols. My students build order books and smart contracts from scratch before they're allowed to have opinions about them.
 
 I'm far from the best in any discipline. But I'm trying every day.
 
