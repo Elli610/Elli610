@@ -50,7 +50,9 @@ I design hands-on workshops where people build real systems — not toy examples
 ### Stack 
 
 Rust for everything. Solidity when the client insists. TypeScript when I've accepted my fate. 
-Low-latency systems, decentralized protocols, and a personal vendetta against anyone who thinks a croissant can be made outside of France. The rest is just tooling — it changes, the obsession doesn't.
+
+Low-latency systems, decentralized protocols, and a personal vendetta against anyone who thinks a croissant can be made outside of France. 
+The rest is just tooling — it changes, the obsession doesn't.
 
 ---
 
