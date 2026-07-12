@@ -14,6 +14,9 @@
 
 ---
 
+### Contact me
+[SimpleX](https://smp11.simplex.im/a#4J8zYk1nB6rnkvrGnuww4HvBeNAUDQZ1KMTNag-MroU)
+
 ### About
 
 By day, I build high-performance financial infrastructure for a blockchain world that refuses to wait more than a microsecond.
